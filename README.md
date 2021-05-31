@@ -1,1 +1,3 @@
-# vscode-win
+## Windows related VSCode settings
+
+WIP.
